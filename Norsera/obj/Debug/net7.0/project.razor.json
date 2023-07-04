@@ -18692,11 +18692,6 @@
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\Mause\\OneDrive\\Masaüstü\\asıl dosya\\ESport\\Norsera\\Views\\Shared\\Components\\_footer.cshtml",
-      "TargetPath": "Views\\Shared\\Components\\_footer.cshtml",
-      "FileKind": "mvc"
-    },
-    {
       "FilePath": "c:\\Users\\Mause\\OneDrive\\Masaüstü\\asıl dosya\\ESport\\Norsera\\Views\\Admin\\UserEdit.cshtml",
       "TargetPath": "Views\\Admin\\UserEdit.cshtml",
       "FileKind": "mvc"
@@ -18714,11 +18709,6 @@
     {
       "FilePath": "c:\\Users\\Mause\\OneDrive\\Masaüstü\\asıl dosya\\ESport\\Norsera\\Views\\Admin\\UserMenage.cshtml",
       "TargetPath": "Views\\Admin\\UserMenage.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Mause\\OneDrive\\Masaüstü\\asıl dosya\\ESport\\Norsera\\Views\\Shared\\Components\\_Layout.cshtml",
-      "TargetPath": "Views\\Shared\\Components\\_Layout.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -18764,11 +18754,6 @@
     {
       "FilePath": "c:\\Users\\Mause\\OneDrive\\Masaüstü\\asıl dosya\\ESport\\Norsera\\Views\\_ViewStart.cshtml",
       "TargetPath": "Views\\_ViewStart.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Mause\\OneDrive\\Masaüstü\\asıl dosya\\ESport\\Norsera\\Views\\Shared\\Components\\_yazılar.cshtml",
-      "TargetPath": "Views\\Shared\\Components\\_yazılar.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -18857,18 +18842,8 @@
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\Mause\\OneDrive\\Masaüstü\\asıl dosya\\ESport\\Norsera\\Views\\Shared\\Components\\bos.cshtml",
-      "TargetPath": "Views\\Shared\\Components\\bos.cshtml",
-      "FileKind": "mvc"
-    },
-    {
       "FilePath": "c:\\Users\\Mause\\OneDrive\\Masaüstü\\asıl dosya\\ESport\\Norsera\\Views\\Shared\\Components\\ShopAna\\_shopvideo.cshtml",
       "TargetPath": "Views\\Shared\\Components\\ShopAna\\_shopvideo.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Mause\\OneDrive\\Masaüstü\\asıl dosya\\ESport\\Norsera\\Views\\Shared\\Components\\_navbar.cshtml",
-      "TargetPath": "Views\\Shared\\Components\\_navbar.cshtml",
       "FileKind": "mvc"
     },
     {
