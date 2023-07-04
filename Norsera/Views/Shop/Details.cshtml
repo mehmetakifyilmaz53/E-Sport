@@ -1,0 +1,45 @@
+@model Norsera.Models.ProductDetailModel;
+@{
+    Layout = "~/Views/Shared/Components/ShopAna/_Layoutshop.cshtml";
+}
+<style>
+    .custom-img-size {
+    width: 400px;
+    height: 500px;
+    margin: 20px;
+    margin-left: 20%;
+}
+</style>
+
+
+
+<div class="card mb-3 mt-3">
+    <div class="card-boddy">
+        <div class="row no-gutters">
+            <div class="col-md-7">
+                <img src="/img/@Model.Product.ImageUrl" class="card-img custom-img-size">
+            </div>
+            <div class="col-md-5 mt-3">
+                <h4 class="card-title">@Model.Product.Name</h4>
+                @foreach (var item in Model.Categories)
+                {
+                    <a asp-controller="shop" asp-action="list" asp-route-category="@item.Url"
+                        class="btn btn-link p-0 mb-3">@item.Name</a>
+                }
+                <p class="card-text h5 pb-3">@Model.Product.Price</p>
+                <form asp-controller="Cart" asp-action="AddToCart" method="POST" class="form-inline">
+                    <input type="hidden" name="productId" value="@Model.Product.ProductId">
+                    <div class="input-group mb-3">
+                        <input type="number" name="quantity" value="1" class="form-control" min="1" step="1"
+                            style="width: 100px;">
+                        <div class="input-group-append">
+                            <button type="submit" class="btn btn-primary">
+                                <i class="fas fa-cart-plus"></i>Add to Cart
+                            </button>
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>

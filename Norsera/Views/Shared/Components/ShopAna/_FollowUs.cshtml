@@ -1,0 +1,36 @@
+<div class="hidden-image">
+  @* <img src="~/img/foto.png" alt="Fotoğraf 1"></img> *@
+  <div class="parallelogram"></div>
+  <div class=Followus><p class="yazı">Follow Us</p></div>
+  
+  <ul>
+    <li>
+        <a href=""><i class="fab fa-twitter"></i></a>
+         <a href=""><i class="fab fa-instagram"></i></a>
+       <a href=""> <i class="fab fa-twitch"></i></a>
+        <a href=""><i class="fab fa-linkedin"></i></a>
+    </li>
+  </ul>
+</div>
+
+<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+<script>
+  $(document).ready(function () {
+    var hiddenImageElements = $(".hidden-image");
+
+    $(window).scroll(function () {
+      var windowHeight = $(window).height();
+      var scrollTop = $(window).scrollTop();
+
+      hiddenImageElements.each(function () {
+        var elementOffset = $(this).offset().top;
+
+        if (scrollTop + windowHeight > elementOffset) {
+          $(this).addClass("show-image");
+        } else {
+          $(this).removeClass("show-image");
+        }
+      });
+    });
+  });
+</script>

@@ -1,0 +1,46 @@
+@* <div class="row">
+@foreach (var product in Model.Products)
+{
+<div class="col-md-3">
+@await Html.PartialAsync("~/Views/Shared/Components/_productcard.cshtml",product)
+</div>
+}
+</div> *@
+
+<style>
+    .card-img-top1
+    {
+        width: 250px;
+        height: 300px;
+        padding: 20px;
+    }
+    .card-body1
+    {
+        width: 100%;
+    }
+</style>
+    <div class="card mb-12">
+        
+        <div class="card-body1">
+            <center>
+            <a asp-controller="shop" asp-action="Details" asp-route-Url="@Model.Url"><img src="/img/@Model.ImageUrl" class="card-img-top1" alt=" "></a>
+            <h5 class="card-title">@Model.Name</h5>
+            <p class="card-text">@Model.Describiton</p>
+            <small class="text-muted">
+                <i class="fa fa-turkish-lira"></i>@Model.Price
+            </small>
+            </center>
+        </div>
+        @* <div class="card-footer text-center">
+            @if(User.Identity.IsAuthenticated)
+            {
+                 <form asp-controller="Cart" asp-action="AddToCart" method="POST" style="display: inline;" >
+                    <input type="hidden" name="productId" value="@Model.ProductId">
+                    <input type="hidden" name="quantity" value="1">
+                    <button type="submit" class="btn btn-primary btn-sm">Add to Cart</button>
+                </form>   
+            }
+            
+        </div> *@
+    </div>
+

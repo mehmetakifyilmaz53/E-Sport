@@ -1,0 +1,162 @@
+.body {
+  background-color: gray;
+  margin: 0;
+  padding: 0;
+}
+
+.gif-container {
+  position: relative;
+  width: 100%;
+  height: 0;
+ 
+  overflow: hidden;
+  margin-bottom: -5%;
+}
+
+.gif-container img.gif {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 85%;
+  object-fit: cover;
+}
+
+.company-name {
+  position: absolute;
+  top: 60%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 1;
+  text-align: center;
+  color: white;
+  font-size: 6vw;
+}
+
+.logo img {
+  position: absolute;
+  top: 28%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 1;
+  align-items: center;
+  width: 20%;
+  height: auto;
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.container {
+  height: 100%;
+  
+
+}
+
+.hidden-image {
+  opacity: 0;
+  transform: translateY(100px);
+  transition: opacity 2s ease-in-out, transform 1s ease-in-out;
+
+}
+
+.show-image {
+  opacity: 1;
+  transform: translateY(0);
+
+}
+
+.hidden-image img {
+  max-width: 100%;
+  max-height: 350px;
+  /* Fotoğrafın maksimum yüksekliği */
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  margin-top: 75px;
+}
+
+.Followus {
+
+  text-align: center;
+  font-size: 120px;
+  position: absolute;
+  left: 34%;
+  margin-top: 150px;
+
+}
+
+.yazı {
+  font-weight: bold;
+  opacity: 0.2;
+  color: gray;
+}
+
+.yazı:hover {
+  opacity: 0.8;
+
+}
+
+.parallelogram {
+
+  width: 1000px;
+  height: 300px;
+  background-color: #8d0d26;
+  transform: skewX(-20deg);
+  color: white;
+  text-align: center;
+  font-size: 20px;
+  font-weight: bold;
+  left: 15%;
+  position: absolute;
+  display: flex;
+  margin-top: 5%;
+}
+
+.social-media-icons {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.social-media-icons img {
+  width: 50px;
+  height: 50px;
+  transition: transform 0.3s;
+}
+
+.social-media-icons img:hover {
+  transform: scale(1.2);
+}
+
+.hidden-image ul {
+  display: flex;
+  justify-content: center;
+  list-style: none;
+  padding: 0;
+  position: absolute;
+  top: 250px;
+  left: 42%;
+}
+
+.hidden-image ul li {
+  margin: 10px;
+}
+
+.hidden-image ul li a i {
+  font-size: 45px;
+  color: black;
+  transition: transform 0.3s;
+  padding: 10px;
+}
+
+.hidden-image ul li a i:hover {
+  transform: scale(1.2);
+  color: white;
+}
+
+.Follow
+{
+  position: absolute;
+  top: 350%;
+}
+

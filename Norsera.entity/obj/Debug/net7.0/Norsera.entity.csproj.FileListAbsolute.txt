@@ -1,0 +1,84 @@
+C:\Users\Mause\OneDrive\Masaüstü\ESport\Norsera.entity\bin\Debug\net7.0\Norsera.entity.deps.json
+C:\Users\Mause\OneDrive\Masaüstü\ESport\Norsera.entity\bin\Debug\net7.0\Norsera.entity.dll
+C:\Users\Mause\OneDrive\Masaüstü\ESport\Norsera.entity\bin\Debug\net7.0\Norsera.entity.pdb
+C:\Users\Mause\OneDrive\Masaüstü\ESport\Norsera.entity\obj\Debug\net7.0\Norsera.entity.csproj.AssemblyReference.cache
+C:\Users\Mause\OneDrive\Masaüstü\ESport\Norsera.entity\obj\Debug\net7.0\Norsera.entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mause\OneDrive\Masaüstü\ESport\Norsera.entity\obj\Debug\net7.0\Norsera.entity.AssemblyInfoInputs.cache
+C:\Users\Mause\OneDrive\Masaüstü\ESport\Norsera.entity\obj\Debug\net7.0\Norsera.entity.AssemblyInfo.cs
+C:\Users\Mause\OneDrive\Masaüstü\ESport\Norsera.entity\obj\Debug\net7.0\Norsera.entity.csproj.CoreCompileInputs.cache
+C:\Users\Mause\OneDrive\Masaüstü\ESport\Norsera.entity\obj\Debug\net7.0\Norsera.entity.dll
+C:\Users\Mause\OneDrive\Masaüstü\ESport\Norsera.entity\obj\Debug\net7.0\refint\Norsera.entity.dll
+C:\Users\Mause\OneDrive\Masaüstü\ESport\Norsera.entity\obj\Debug\net7.0\Norsera.entity.pdb
+C:\Users\Mause\OneDrive\Masaüstü\ESport\Norsera.entity\obj\Debug\net7.0\ref\Norsera.entity.dll
+C:\Users\pc\Documents\mehmet akif\ESport\Norsera.entity\bin\Debug\net7.0\Norsera.entity.deps.json
+C:\Users\pc\Documents\mehmet akif\ESport\Norsera.entity\bin\Debug\net7.0\Norsera.entity.dll
+C:\Users\pc\Documents\mehmet akif\ESport\Norsera.entity\bin\Debug\net7.0\Norsera.entity.pdb
+C:\Users\pc\Documents\mehmet akif\ESport\Norsera.entity\obj\Debug\net7.0\Norsera.entity.csproj.AssemblyReference.cache
+C:\Users\pc\Documents\mehmet akif\ESport\Norsera.entity\obj\Debug\net7.0\Norsera.entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Documents\mehmet akif\ESport\Norsera.entity\obj\Debug\net7.0\Norsera.entity.AssemblyInfoInputs.cache
+C:\Users\pc\Documents\mehmet akif\ESport\Norsera.entity\obj\Debug\net7.0\Norsera.entity.AssemblyInfo.cs
+C:\Users\pc\Documents\mehmet akif\ESport\Norsera.entity\obj\Debug\net7.0\Norsera.entity.csproj.CoreCompileInputs.cache
+C:\Users\pc\Documents\mehmet akif\ESport\Norsera.entity\obj\Debug\net7.0\Norsera.entity.dll
+C:\Users\pc\Documents\mehmet akif\ESport\Norsera.entity\obj\Debug\net7.0\refint\Norsera.entity.dll
+C:\Users\pc\Documents\mehmet akif\ESport\Norsera.entity\obj\Debug\net7.0\Norsera.entity.pdb
+C:\Users\pc\Documents\mehmet akif\ESport\Norsera.entity\obj\Debug\net7.0\ref\Norsera.entity.dll
+C:\Users\pc\Documents\mehmet akif\5 Mayıs\ESport\Norsera.entity\bin\Debug\net7.0\Norsera.entity.deps.json
+C:\Users\pc\Documents\mehmet akif\5 Mayıs\ESport\Norsera.entity\bin\Debug\net7.0\Norsera.entity.dll
+C:\Users\pc\Documents\mehmet akif\5 Mayıs\ESport\Norsera.entity\bin\Debug\net7.0\Norsera.entity.pdb
+C:\Users\pc\Documents\mehmet akif\5 Mayıs\ESport\Norsera.entity\obj\Debug\net7.0\Norsera.entity.csproj.AssemblyReference.cache
+C:\Users\pc\Documents\mehmet akif\5 Mayıs\ESport\Norsera.entity\obj\Debug\net7.0\Norsera.entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Documents\mehmet akif\5 Mayıs\ESport\Norsera.entity\obj\Debug\net7.0\Norsera.entity.AssemblyInfoInputs.cache
+C:\Users\pc\Documents\mehmet akif\5 Mayıs\ESport\Norsera.entity\obj\Debug\net7.0\Norsera.entity.AssemblyInfo.cs
+C:\Users\pc\Documents\mehmet akif\5 Mayıs\ESport\Norsera.entity\obj\Debug\net7.0\Norsera.entity.csproj.CoreCompileInputs.cache
+C:\Users\pc\Documents\mehmet akif\5 Mayıs\ESport\Norsera.entity\obj\Debug\net7.0\Norsera.entity.dll
+C:\Users\pc\Documents\mehmet akif\5 Mayıs\ESport\Norsera.entity\obj\Debug\net7.0\refint\Norsera.entity.dll
+C:\Users\pc\Documents\mehmet akif\5 Mayıs\ESport\Norsera.entity\obj\Debug\net7.0\Norsera.entity.pdb
+C:\Users\pc\Documents\mehmet akif\5 Mayıs\ESport\Norsera.entity\obj\Debug\net7.0\ref\Norsera.entity.dll
+C:\Users\Mause\OneDrive\Masaüstü\MVC PROJE\ESport\Norsera.entity\bin\Debug\net7.0\Norsera.entity.deps.json
+C:\Users\Mause\OneDrive\Masaüstü\MVC PROJE\ESport\Norsera.entity\bin\Debug\net7.0\Norsera.entity.dll
+C:\Users\Mause\OneDrive\Masaüstü\MVC PROJE\ESport\Norsera.entity\bin\Debug\net7.0\Norsera.entity.pdb
+C:\Users\Mause\OneDrive\Masaüstü\MVC PROJE\ESport\Norsera.entity\obj\Debug\net7.0\Norsera.entity.csproj.AssemblyReference.cache
+C:\Users\Mause\OneDrive\Masaüstü\MVC PROJE\ESport\Norsera.entity\obj\Debug\net7.0\Norsera.entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mause\OneDrive\Masaüstü\MVC PROJE\ESport\Norsera.entity\obj\Debug\net7.0\Norsera.entity.AssemblyInfoInputs.cache
+C:\Users\Mause\OneDrive\Masaüstü\MVC PROJE\ESport\Norsera.entity\obj\Debug\net7.0\Norsera.entity.AssemblyInfo.cs
+C:\Users\Mause\OneDrive\Masaüstü\MVC PROJE\ESport\Norsera.entity\obj\Debug\net7.0\Norsera.entity.csproj.CoreCompileInputs.cache
+C:\Users\Mause\OneDrive\Masaüstü\MVC PROJE\ESport\Norsera.entity\obj\Debug\net7.0\Norsera.entity.dll
+C:\Users\Mause\OneDrive\Masaüstü\MVC PROJE\ESport\Norsera.entity\obj\Debug\net7.0\refint\Norsera.entity.dll
+C:\Users\Mause\OneDrive\Masaüstü\MVC PROJE\ESport\Norsera.entity\obj\Debug\net7.0\Norsera.entity.pdb
+C:\Users\Mause\OneDrive\Masaüstü\MVC PROJE\ESport\Norsera.entity\obj\Debug\net7.0\ref\Norsera.entity.dll
+C:\Users\pc\Documents\mehmet akif\13 Haziran\ESport\Norsera.entity\bin\Debug\net7.0\Norsera.entity.deps.json
+C:\Users\pc\Documents\mehmet akif\13 Haziran\ESport\Norsera.entity\bin\Debug\net7.0\Norsera.entity.dll
+C:\Users\pc\Documents\mehmet akif\13 Haziran\ESport\Norsera.entity\bin\Debug\net7.0\Norsera.entity.pdb
+C:\Users\pc\Documents\mehmet akif\13 Haziran\ESport\Norsera.entity\obj\Debug\net7.0\Norsera.entity.csproj.AssemblyReference.cache
+C:\Users\pc\Documents\mehmet akif\13 Haziran\ESport\Norsera.entity\obj\Debug\net7.0\Norsera.entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Documents\mehmet akif\13 Haziran\ESport\Norsera.entity\obj\Debug\net7.0\Norsera.entity.AssemblyInfoInputs.cache
+C:\Users\pc\Documents\mehmet akif\13 Haziran\ESport\Norsera.entity\obj\Debug\net7.0\Norsera.entity.AssemblyInfo.cs
+C:\Users\pc\Documents\mehmet akif\13 Haziran\ESport\Norsera.entity\obj\Debug\net7.0\Norsera.entity.csproj.CoreCompileInputs.cache
+C:\Users\pc\Documents\mehmet akif\13 Haziran\ESport\Norsera.entity\obj\Debug\net7.0\Norsera.entity.dll
+C:\Users\pc\Documents\mehmet akif\13 Haziran\ESport\Norsera.entity\obj\Debug\net7.0\refint\Norsera.entity.dll
+C:\Users\pc\Documents\mehmet akif\13 Haziran\ESport\Norsera.entity\obj\Debug\net7.0\Norsera.entity.pdb
+C:\Users\pc\Documents\mehmet akif\13 Haziran\ESport\Norsera.entity\obj\Debug\net7.0\ref\Norsera.entity.dll
+C:\Users\Mause\OneDrive\Masaüstü\MVC PROJE\demeöe\ESport\Norsera.entity\bin\Debug\net7.0\Norsera.entity.deps.json
+C:\Users\Mause\OneDrive\Masaüstü\MVC PROJE\demeöe\ESport\Norsera.entity\bin\Debug\net7.0\Norsera.entity.dll
+C:\Users\Mause\OneDrive\Masaüstü\MVC PROJE\demeöe\ESport\Norsera.entity\bin\Debug\net7.0\Norsera.entity.pdb
+C:\Users\Mause\OneDrive\Masaüstü\MVC PROJE\demeöe\ESport\Norsera.entity\obj\Debug\net7.0\Norsera.entity.csproj.AssemblyReference.cache
+C:\Users\Mause\OneDrive\Masaüstü\MVC PROJE\demeöe\ESport\Norsera.entity\obj\Debug\net7.0\Norsera.entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mause\OneDrive\Masaüstü\MVC PROJE\demeöe\ESport\Norsera.entity\obj\Debug\net7.0\Norsera.entity.AssemblyInfoInputs.cache
+C:\Users\Mause\OneDrive\Masaüstü\MVC PROJE\demeöe\ESport\Norsera.entity\obj\Debug\net7.0\Norsera.entity.AssemblyInfo.cs
+C:\Users\Mause\OneDrive\Masaüstü\MVC PROJE\demeöe\ESport\Norsera.entity\obj\Debug\net7.0\Norsera.entity.csproj.CoreCompileInputs.cache
+C:\Users\Mause\OneDrive\Masaüstü\MVC PROJE\demeöe\ESport\Norsera.entity\obj\Debug\net7.0\Norsera.entity.dll
+C:\Users\Mause\OneDrive\Masaüstü\MVC PROJE\demeöe\ESport\Norsera.entity\obj\Debug\net7.0\refint\Norsera.entity.dll
+C:\Users\Mause\OneDrive\Masaüstü\MVC PROJE\demeöe\ESport\Norsera.entity\obj\Debug\net7.0\Norsera.entity.pdb
+C:\Users\Mause\OneDrive\Masaüstü\MVC PROJE\demeöe\ESport\Norsera.entity\obj\Debug\net7.0\ref\Norsera.entity.dll
+C:\Users\Mause\OneDrive\Masaüstü\asıl dosya\ESport\Norsera.entity\bin\Debug\net7.0\Norsera.entity.deps.json
+C:\Users\Mause\OneDrive\Masaüstü\asıl dosya\ESport\Norsera.entity\bin\Debug\net7.0\Norsera.entity.dll
+C:\Users\Mause\OneDrive\Masaüstü\asıl dosya\ESport\Norsera.entity\bin\Debug\net7.0\Norsera.entity.pdb
+C:\Users\Mause\OneDrive\Masaüstü\asıl dosya\ESport\Norsera.entity\obj\Debug\net7.0\Norsera.entity.csproj.AssemblyReference.cache
+C:\Users\Mause\OneDrive\Masaüstü\asıl dosya\ESport\Norsera.entity\obj\Debug\net7.0\Norsera.entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mause\OneDrive\Masaüstü\asıl dosya\ESport\Norsera.entity\obj\Debug\net7.0\Norsera.entity.AssemblyInfoInputs.cache
+C:\Users\Mause\OneDrive\Masaüstü\asıl dosya\ESport\Norsera.entity\obj\Debug\net7.0\Norsera.entity.AssemblyInfo.cs
+C:\Users\Mause\OneDrive\Masaüstü\asıl dosya\ESport\Norsera.entity\obj\Debug\net7.0\Norsera.entity.csproj.CoreCompileInputs.cache
+C:\Users\Mause\OneDrive\Masaüstü\asıl dosya\ESport\Norsera.entity\obj\Debug\net7.0\Norsera.entity.dll
+C:\Users\Mause\OneDrive\Masaüstü\asıl dosya\ESport\Norsera.entity\obj\Debug\net7.0\refint\Norsera.entity.dll
+C:\Users\Mause\OneDrive\Masaüstü\asıl dosya\ESport\Norsera.entity\obj\Debug\net7.0\Norsera.entity.pdb
+C:\Users\Mause\OneDrive\Masaüstü\asıl dosya\ESport\Norsera.entity\obj\Debug\net7.0\ref\Norsera.entity.dll

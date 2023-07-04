@@ -1,0 +1,33 @@
+@model UserDetailsModel
+<div class="row">
+    <div class="col-md-6">
+        <table class="table table-bordered mt-5">
+
+                <tr>
+                    <td style="width: 100px;">FirstName</td>
+                    <td>@Model.FirstName</td>
+                </tr>
+        </table>
+        <table class="table table-bordered">
+
+                <tr>
+                    <td style="width: 100px;">LastName</td>
+                    <td>@Model.LastName</td>
+                </tr>
+        </table>
+         <table class="table table-bordered">
+
+                <tr>
+                    <td style="width: 100px;">UserName</td>
+                    <td>@Model.UserName</td>
+                </tr>
+        </table>
+         <table class="table table-bordered ">
+                <tr>
+                    <td style="width: 100px;">Email</td>
+                    <td>@Model.Email</td>
+                </tr>
+        </table>
+       <a href="/account/forgotpassword" class="btn btn-primary btn-sm mr-2">Change Password?</a>
+    </div>
+</div>

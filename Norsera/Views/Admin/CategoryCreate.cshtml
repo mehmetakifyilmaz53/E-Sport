@@ -1,0 +1,31 @@
+@model CategoryModel
+
+<h1 class="h3">Create Category</h1>
+<hr>
+
+
+
+<form asp-controller="Admin" asp-action="CategoryCreate" method="POST">
+  <div asp-validation-summary="All" class="text-danger"></div>
+  <div class="form-group">
+    <label asp-for="Name"></label>
+    <input class="form-control" placeholder="Name" asp-for="Name">
+    <span asp-validation-for="Name" class="text-danger"></span>
+  </div>
+  <div class="form-group">
+    <label asp-for="Url"></label>
+    <input class="form-control" placeholder="Url" asp-for="Url">
+    <span asp-validation-for="Url" class="text-danger"></span>
+  </div>
+  
+  <div class="form-group">
+    <label asp-for="Describiton"></label>
+    <textarea class="form-control" placeholder="Describiton" asp-for="Describiton"></textarea>
+    
+     <span asp-validation-for="Describiton" class="text-danger"></span>
+    
+  </div>
+  <div class="form-group">
+    <button type="submit" class="btn btn-primary">Submit</button>
+  </div>
+</form>

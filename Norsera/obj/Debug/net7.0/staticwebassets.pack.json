@@ -1,0 +1,109 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Mause\\OneDrive\\Masaüstü\\asıl dosya\\ESport\\Norsera\\wwwroot\\css\\shopstyle.css",
+      "PackagePath": "staticwebassets\\css\\shopstyle.css"
+    },
+    {
+      "Id": "C:\\Users\\Mause\\OneDrive\\Masaüstü\\asıl dosya\\ESport\\Norsera\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Mause\\OneDrive\\Masaüstü\\asıl dosya\\ESport\\Norsera\\wwwroot\\img\\235d8c50-c4bb-458a-a1f2-3c3a9f53406b.jpg",
+      "PackagePath": "staticwebassets\\img\\235d8c50-c4bb-458a-a1f2-3c3a9f53406b.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mause\\OneDrive\\Masaüstü\\asıl dosya\\ESport\\Norsera\\wwwroot\\img\\5b19b0bb-5407-458c-aea3-34e1022b5ba8.jpg",
+      "PackagePath": "staticwebassets\\img\\5b19b0bb-5407-458c-aea3-34e1022b5ba8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mause\\OneDrive\\Masaüstü\\asıl dosya\\ESport\\Norsera\\wwwroot\\img\\EkranAlıntısı.PNG",
+      "PackagePath": "staticwebassets\\img\\EkranAlıntısı.PNG"
+    },
+    {
+      "Id": "C:\\Users\\Mause\\OneDrive\\Masaüstü\\asıl dosya\\ESport\\Norsera\\wwwroot\\img\\Hoodie1.png",
+      "PackagePath": "staticwebassets\\img\\Hoodie1.png"
+    },
+    {
+      "Id": "C:\\Users\\Mause\\OneDrive\\Masaüstü\\asıl dosya\\ESport\\Norsera\\wwwroot\\img\\Hoodie2.png",
+      "PackagePath": "staticwebassets\\img\\Hoodie2.png"
+    },
+    {
+      "Id": "C:\\Users\\Mause\\OneDrive\\Masaüstü\\asıl dosya\\ESport\\Norsera\\wwwroot\\img\\Norsera 1013x1013.png",
+      "PackagePath": "staticwebassets\\img\\Norsera 1013x1013.png"
+    },
+    {
+      "Id": "C:\\Users\\Mause\\OneDrive\\Masaüstü\\asıl dosya\\ESport\\Norsera\\wwwroot\\img\\Norsera logo.png",
+      "PackagePath": "staticwebassets\\img\\Norsera logo.png"
+    },
+    {
+      "Id": "C:\\Users\\Mause\\OneDrive\\Masaüstü\\asıl dosya\\ESport\\Norsera\\wwwroot\\img\\NorseraHoodie.png",
+      "PackagePath": "staticwebassets\\img\\NorseraHoodie.png"
+    },
+    {
+      "Id": "C:\\Users\\Mause\\OneDrive\\Masaüstü\\asıl dosya\\ESport\\Norsera\\wwwroot\\img\\T-shirt1.webp",
+      "PackagePath": "staticwebassets\\img\\T-shirt1.webp"
+    },
+    {
+      "Id": "C:\\Users\\Mause\\OneDrive\\Masaüstü\\asıl dosya\\ESport\\Norsera\\wwwroot\\img\\asıl.png",
+      "PackagePath": "staticwebassets\\img\\asıl.png"
+    },
+    {
+      "Id": "C:\\Users\\Mause\\OneDrive\\Masaüstü\\asıl dosya\\ESport\\Norsera\\wwwroot\\img\\c8716374-8d9d-4942-9ada-f0e11571fec0.jpg",
+      "PackagePath": "staticwebassets\\img\\c8716374-8d9d-4942-9ada-f0e11571fec0.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mause\\OneDrive\\Masaüstü\\asıl dosya\\ESport\\Norsera\\wwwroot\\img\\d3b01967-f48f-423b-8107-e6823edd29f7.webp",
+      "PackagePath": "staticwebassets\\img\\d3b01967-f48f-423b-8107-e6823edd29f7.webp"
+    },
+    {
+      "Id": "C:\\Users\\Mause\\OneDrive\\Masaüstü\\asıl dosya\\ESport\\Norsera\\wwwroot\\img\\ff5c978c-c350-402b-b94b-cff6323b2622.png",
+      "PackagePath": "staticwebassets\\img\\ff5c978c-c350-402b-b94b-cff6323b2622.png"
+    },
+    {
+      "Id": "C:\\Users\\Mause\\OneDrive\\Masaüstü\\asıl dosya\\ESport\\Norsera\\wwwroot\\img\\foto.png",
+      "PackagePath": "staticwebassets\\img\\foto.png"
+    },
+    {
+      "Id": "C:\\Users\\Mause\\OneDrive\\Masaüstü\\asıl dosya\\ESport\\Norsera\\wwwroot\\img\\kit1.png",
+      "PackagePath": "staticwebassets\\img\\kit1.png"
+    },
+    {
+      "Id": "C:\\Users\\Mause\\OneDrive\\Masaüstü\\asıl dosya\\ESport\\Norsera\\wwwroot\\img\\testürün1.jpg",
+      "PackagePath": "staticwebassets\\img\\testürün1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mause\\OneDrive\\Masaüstü\\asıl dosya\\ESport\\Norsera\\wwwroot\\img\\video.mp4",
+      "PackagePath": "staticwebassets\\img\\video.mp4"
+    },
+    {
+      "Id": "C:\\Users\\Mause\\OneDrive\\Masaüstü\\asıl dosya\\ESport\\Norsera\\wwwroot\\js\\shop.js",
+      "PackagePath": "staticwebassets\\js\\shop.js"
+    },
+    {
+      "Id": "C:\\Users\\Mause\\OneDrive\\Masaüstü\\asıl dosya\\ESport\\Norsera\\wwwroot\\lib\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mause\\OneDrive\\Masaüstü\\asıl dosya\\ESport\\Norsera\\wwwroot\\lib\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.Norsera.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.Norsera.props",
+      "PackagePath": "build\\Norsera.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.Norsera.props",
+      "PackagePath": "buildMultiTargeting\\Norsera.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.Norsera.props",
+      "PackagePath": "buildTransitive\\Norsera.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

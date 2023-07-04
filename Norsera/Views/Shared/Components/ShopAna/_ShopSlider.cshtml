@@ -1,0 +1,89 @@
+
+<style>
+  .sliderImg {
+    width: 350px;
+    height: 250px;
+  }
+
+  .card-body {
+    padding-bottom: 50px;
+    background-color: gray;
+    width: 100%;
+  }
+
+  .carousel {
+    margin: 0 auto;
+    transition: opacity 1s ease-in-out;
+    /* Sayfanın ortasında durmasını sağlar */
+    width: 70%;
+    /* Slider'ın boyutunu yarıya indirir */
+  }
+</style>
+
+<head>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.4/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+</head>
+
+@model Norsera.Models.ProductList
+@{
+  var FirstProduct = Model.Products.Find(p => p.ProductId == 1);
+  var secondProduct = Model.Products.Find(p => p.ProductId == 2);
+  var thirdProduct = Model.Products.Find(p => p.ProductId == 3);
+}
+
+<div class="container mt-4 text-center">
+  <div id="myCarouselslider" class="carousel slide carousel-fade" data-ride="carousel">
+    <!-- Carousel indicators -->
+    <ol class="carousel-indicators">
+
+    </ol>
+    <!-- Wrapper for carousel items -->
+    <div class="carousel-inner">
+      <div class="carousel-item active">
+        <div class="card mb-3">
+          <div class="card-body">
+            <a asp-controller="@FirstProduct.Url"><img src="/img/@FirstProduct.ImageUrl" class="card-img sliderImg" alt=" "></a>
+            <h5 class="card-title mt-2">@FirstProduct.Name</h5>
+              <h5>@FirstProduct.Price<i class="fa fa-turkish-lira"></i></h5>
+          </div>
+        </div>
+      </div>
+      <div class="carousel-item">
+        <div class="card mb-3">
+          <div class="card-body">
+            <a asp-controller="@secondProduct.Url"><img src="/img/@secondProduct.ImageUrl" class="card-img sliderImg" alt=" "></a>
+            <h5 class="card-title mt-2">@secondProduct.Name</h5>
+            <h5>@FirstProduct.Price<i class="fa fa-turkish-lira"></i></h5>
+          </div>
+        </div>
+      </div>
+       <div class="carousel-item">
+        <div class="card mb-3">
+          <div class="card-body">
+            <a asp-controller="@thirdProduct.Url"><img src="~/img/@thirdProduct.ImageUrl" class="card-img sliderImg" alt=" "></a>
+            <h5 class="card-title mt-2">@thirdProduct.Name</h5>
+            <h5>@FirstProduct.Price<i class="fa fa-turkish-lira"></i></h5>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- Carousel controls -->
+    <a class="carousel-control-prev" href="#myCarouselslider" data-slide="prev">
+      <span class="carousel-control-prev-icon"></span>
+    </a>
+    <a class="carousel-control-next" href="#myCarouselslider" data-slide="next">
+      <span class="carousel-control-next-icon"></span>
+    </a>
+  </div>
+</div>
+
+
+<script>
+  $(document).ready(function () {
+    $('.carousel').carousel({
+      interval: 4000, // Her slaytın geçiş süresi (ms cinsinden)
+      pause: "hover" // Fare üzerine gelindiğinde slayt geçişini durdur
+    });
+  });
+</script>

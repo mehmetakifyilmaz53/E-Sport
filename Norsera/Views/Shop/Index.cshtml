@@ -1,0 +1,33 @@
+@model Norsera.Models.ProductList
+
+@{
+    Layout = "~/Views/Shared/Components/ShopAna/_Layoutshop.cshtml";
+}
+
+
+
+@await Component.InvokeAsync("Categories")
+<div class="Allproducts_">
+    <div class="row">
+
+        @foreach (var product in Model.HomeProducts)
+        {
+            <div class="col-md-3">
+                @await Html.PartialAsync("~/Views/Shared/Components/ShopAna/_ShopAllProducts.cshtml",product)
+            </div>
+        }
+    </div>
+    <div class="ShopSlider">
+        @await Html.PartialAsync("~/Views/Shared/Components/ShopAna/_ShopSlider.cshtml")
+    </div>
+    <div class="ShopCombination">
+        @await Html.PartialAsync("~/Views/Shared/Components/ShopAna/_Shopcombination.cshtml")
+    </div>
+    <div class="Follow">
+        @await Html.PartialAsync("~/Views/Shared/Components/ShopAna/_FollowUs.cshtml")
+    </div>
+
+
+
+
+

@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "ckeditor": "^4.12.1",
+    "jquery": "^3.7.0",
+    "jquery-validation": "^1.19.5",
+    "jquery-validation-unobtrusive": "^4.0.0"
+  }
+}
