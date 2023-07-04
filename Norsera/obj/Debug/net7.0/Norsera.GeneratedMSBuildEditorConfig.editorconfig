@@ -9,185 +9,189 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Norsera
 build_property.RootNamespace = Norsera
-build_property.ProjectDir = c:\Users\Mause\OneDrive\Masaüstü\asıl dosya\ESport\Norsera\
+build_property.ProjectDir = C:\Users\Mause\OneDrive\Masaüstü\asıl dosya\ESport\Norsera\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = c:\Users\Mause\OneDrive\Masaüstü\asıl dosya\ESport\Norsera
+build_property.MSBuildProjectDirectory = C:\Users\Mause\OneDrive\Masaüstü\asıl dosya\ESport\Norsera
 build_property._RazorSourceGeneratorDebug = 
 
-[c:/Users/Mause/OneDrive/Masaüstü/asıl dosya/ESport/Norsera/Views/Account/AccessDenied.cshtml]
+[C:/Users/Mause/OneDrive/Masaüstü/asıl dosya/ESport/Norsera/Views/Account/AccessDenied.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxBY2Nlc3NEZW5pZWQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Mause/OneDrive/Masaüstü/asıl dosya/ESport/Norsera/Views/Account/ConfirmEmail.cshtml]
+[C:/Users/Mause/OneDrive/Masaüstü/asıl dosya/ESport/Norsera/Views/Account/ConfirmEmail.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxDb25maXJtRW1haWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Mause/OneDrive/Masaüstü/asıl dosya/ESport/Norsera/Views/Account/ForgotPassword.cshtml]
+[C:/Users/Mause/OneDrive/Masaüstü/asıl dosya/ESport/Norsera/Views/Account/ForgotPassword.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxGb3Jnb3RQYXNzd29yZC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Mause/OneDrive/Masaüstü/asıl dosya/ESport/Norsera/Views/Account/Login.cshtml]
+[C:/Users/Mause/OneDrive/Masaüstü/asıl dosya/ESport/Norsera/Views/Account/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Mause/OneDrive/Masaüstü/asıl dosya/ESport/Norsera/Views/Account/Register.cshtml]
+[C:/Users/Mause/OneDrive/Masaüstü/asıl dosya/ESport/Norsera/Views/Account/Register.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Mause/OneDrive/Masaüstü/asıl dosya/ESport/Norsera/Views/Account/ResetPassword.cshtml]
+[C:/Users/Mause/OneDrive/Masaüstü/asıl dosya/ESport/Norsera/Views/Account/ResetPassword.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZXNldFBhc3N3b3JkLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Mause/OneDrive/Masaüstü/asıl dosya/ESport/Norsera/Views/Admin/CategoryCreate.cshtml]
+[C:/Users/Mause/OneDrive/Masaüstü/asıl dosya/ESport/Norsera/Views/Admin/CategoryCreate.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQ2F0ZWdvcnlDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Mause/OneDrive/Masaüstü/asıl dosya/ESport/Norsera/Views/Admin/CategoryEdit.cshtml]
+[C:/Users/Mause/OneDrive/Masaüstü/asıl dosya/ESport/Norsera/Views/Admin/CategoryEdit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQ2F0ZWdvcnlFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Mause/OneDrive/Masaüstü/asıl dosya/ESport/Norsera/Views/Admin/CategoryList.cshtml]
+[C:/Users/Mause/OneDrive/Masaüstü/asıl dosya/ESport/Norsera/Views/Admin/CategoryList.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQ2F0ZWdvcnlMaXN0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Mause/OneDrive/Masaüstü/asıl dosya/ESport/Norsera/Views/Admin/ProductCreate.cshtml]
+[C:/Users/Mause/OneDrive/Masaüstü/asıl dosya/ESport/Norsera/Views/Admin/ProductCreate.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cUHJvZHVjdENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Mause/OneDrive/Masaüstü/asıl dosya/ESport/Norsera/Views/Admin/ProductEdit.cshtml]
+[C:/Users/Mause/OneDrive/Masaüstü/asıl dosya/ESport/Norsera/Views/Admin/ProductEdit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cUHJvZHVjdEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Mause/OneDrive/Masaüstü/asıl dosya/ESport/Norsera/Views/Admin/ProductList.cshtml]
+[C:/Users/Mause/OneDrive/Masaüstü/asıl dosya/ESport/Norsera/Views/Admin/ProductList.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cUHJvZHVjdExpc3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Mause/OneDrive/Masaüstü/asıl dosya/ESport/Norsera/Views/Admin/RoleCreate.cshtml]
+[C:/Users/Mause/OneDrive/Masaüstü/asıl dosya/ESport/Norsera/Views/Admin/RoleCreate.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cUm9sZUNyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Mause/OneDrive/Masaüstü/asıl dosya/ESport/Norsera/Views/Admin/RoleEdit.cshtml]
+[C:/Users/Mause/OneDrive/Masaüstü/asıl dosya/ESport/Norsera/Views/Admin/RoleEdit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cUm9sZUVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Mause/OneDrive/Masaüstü/asıl dosya/ESport/Norsera/Views/Admin/RoleList.cshtml]
+[C:/Users/Mause/OneDrive/Masaüstü/asıl dosya/ESport/Norsera/Views/Admin/RoleList.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cUm9sZUxpc3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Mause/OneDrive/Masaüstü/asıl dosya/ESport/Norsera/Views/Admin/UserCreate.cshtml]
+[C:/Users/Mause/OneDrive/Masaüstü/asıl dosya/ESport/Norsera/Views/Admin/UserCreate.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cVXNlckNyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Mause/OneDrive/Masaüstü/asıl dosya/ESport/Norsera/Views/Admin/UserEdit.cshtml]
+[C:/Users/Mause/OneDrive/Masaüstü/asıl dosya/ESport/Norsera/Views/Admin/UserEdit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cVXNlckVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Mause/OneDrive/Masaüstü/asıl dosya/ESport/Norsera/Views/Admin/UserList.cshtml]
+[C:/Users/Mause/OneDrive/Masaüstü/asıl dosya/ESport/Norsera/Views/Admin/UserList.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cVXNlckxpc3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Mause/OneDrive/Masaüstü/asıl dosya/ESport/Norsera/Views/Admin/UserMenage.cshtml]
+[C:/Users/Mause/OneDrive/Masaüstü/asıl dosya/ESport/Norsera/Views/Admin/UserMenage.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cVXNlck1lbmFnZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Mause/OneDrive/Masaüstü/asıl dosya/ESport/Norsera/Views/Cart/Checkout.cshtml]
+[C:/Users/Mause/OneDrive/Masaüstü/asıl dosya/ESport/Norsera/Views/Cart/Checkout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydFxDaGVja291dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Mause/OneDrive/Masaüstü/asıl dosya/ESport/Norsera/Views/Cart/Index.cshtml]
+[C:/Users/Mause/OneDrive/Masaüstü/asıl dosya/ESport/Norsera/Views/Cart/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Mause/OneDrive/Masaüstü/asıl dosya/ESport/Norsera/Views/Home/Index.cshtml]
+[C:/Users/Mause/OneDrive/Masaüstü/asıl dosya/ESport/Norsera/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Mause/OneDrive/Masaüstü/asıl dosya/ESport/Norsera/Views/Shared/Components/bos.cshtml]
+[C:/Users/Mause/OneDrive/Masaüstü/asıl dosya/ESport/Norsera/Views/Shared/Components/bos.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcYm9zLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Mause/OneDrive/Masaüstü/asıl dosya/ESport/Norsera/Views/Shared/Components/Categories/Default.cshtml]
+[C:/Users/Mause/OneDrive/Masaüstü/asıl dosya/ESport/Norsera/Views/Shared/Components/Categories/Default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcQ2F0ZWdvcmllc1xEZWZhdWx0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Mause/OneDrive/Masaüstü/asıl dosya/ESport/Norsera/Views/Shared/Components/ShopAna/_details.cshtml]
+[C:/Users/Mause/OneDrive/Masaüstü/asıl dosya/ESport/Norsera/Views/Shared/Components/ShopAna/_details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcU2hvcEFuYVxfZGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Mause/OneDrive/Masaüstü/asıl dosya/ESport/Norsera/Views/Shared/Components/ShopAna/_FollowUs.cshtml]
+[C:/Users/Mause/OneDrive/Masaüstü/asıl dosya/ESport/Norsera/Views/Shared/Components/ShopAna/_FollowUs.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcU2hvcEFuYVxfRm9sbG93VXMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Mause/OneDrive/Masaüstü/asıl dosya/ESport/Norsera/Views/Shared/Components/ShopAna/_Layoutshop.cshtml]
+[C:/Users/Mause/OneDrive/Masaüstü/asıl dosya/ESport/Norsera/Views/Shared/Components/ShopAna/_LayoutIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcU2hvcEFuYVxfTGF5b3V0SW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mause/OneDrive/Masaüstü/asıl dosya/ESport/Norsera/Views/Shared/Components/ShopAna/_Layoutshop.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcU2hvcEFuYVxfTGF5b3V0c2hvcC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Mause/OneDrive/Masaüstü/asıl dosya/ESport/Norsera/Views/Shared/Components/ShopAna/_navbarshop.cshtml]
+[C:/Users/Mause/OneDrive/Masaüstü/asıl dosya/ESport/Norsera/Views/Shared/Components/ShopAna/_navbarshop.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcU2hvcEFuYVxfbmF2YmFyc2hvcC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Mause/OneDrive/Masaüstü/asıl dosya/ESport/Norsera/Views/Shared/Components/ShopAna/_ShopAllProducts.cshtml]
+[C:/Users/Mause/OneDrive/Masaüstü/asıl dosya/ESport/Norsera/Views/Shared/Components/ShopAna/_ShopAllProducts.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcU2hvcEFuYVxfU2hvcEFsbFByb2R1Y3RzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Mause/OneDrive/Masaüstü/asıl dosya/ESport/Norsera/Views/Shared/Components/ShopAna/_Shopcombination.cshtml]
+[C:/Users/Mause/OneDrive/Masaüstü/asıl dosya/ESport/Norsera/Views/Shared/Components/ShopAna/_Shopcombination.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcU2hvcEFuYVxfU2hvcGNvbWJpbmF0aW9uLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Mause/OneDrive/Masaüstü/asıl dosya/ESport/Norsera/Views/Shared/Components/ShopAna/_ShopSlider.cshtml]
+[C:/Users/Mause/OneDrive/Masaüstü/asıl dosya/ESport/Norsera/Views/Shared/Components/ShopAna/_ShopSlider.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcU2hvcEFuYVxfU2hvcFNsaWRlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Mause/OneDrive/Masaüstü/asıl dosya/ESport/Norsera/Views/Shared/Components/ShopAna/_shopvideo.cshtml]
+[C:/Users/Mause/OneDrive/Masaüstü/asıl dosya/ESport/Norsera/Views/Shared/Components/ShopAna/_shopvideo.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcU2hvcEFuYVxfc2hvcHZpZGVvLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Mause/OneDrive/Masaüstü/asıl dosya/ESport/Norsera/Views/Shared/Components/_footer.cshtml]
+[C:/Users/Mause/OneDrive/Masaüstü/asıl dosya/ESport/Norsera/Views/Shared/Components/_footer.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX2Zvb3Rlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Mause/OneDrive/Masaüstü/asıl dosya/ESport/Norsera/Views/Shared/Components/_gif.cshtml]
+[C:/Users/Mause/OneDrive/Masaüstü/asıl dosya/ESport/Norsera/Views/Shared/Components/_gif.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX2dpZi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Mause/OneDrive/Masaüstü/asıl dosya/ESport/Norsera/Views/Shared/Components/_Layout.cshtml]
+[C:/Users/Mause/OneDrive/Masaüstü/asıl dosya/ESport/Norsera/Views/Shared/Components/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0xheW91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Mause/OneDrive/Masaüstü/asıl dosya/ESport/Norsera/Views/Shared/Components/_navbar.cshtml]
+[C:/Users/Mause/OneDrive/Masaüstü/asıl dosya/ESport/Norsera/Views/Shared/Components/_navbar.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX25hdmJhci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Mause/OneDrive/Masaüstü/asıl dosya/ESport/Norsera/Views/Shared/Components/_yazılar.cshtml]
+[C:/Users/Mause/OneDrive/Masaüstü/asıl dosya/ESport/Norsera/Views/Shared/Components/_yazılar.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX3lhesSxbGFyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Mause/OneDrive/Masaüstü/asıl dosya/ESport/Norsera/Views/Shared/_ResultMessage.cshtml]
+[C:/Users/Mause/OneDrive/Masaüstü/asıl dosya/ESport/Norsera/Views/Shared/_ResultMessage.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9SZXN1bHRNZXNzYWdlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Mause/OneDrive/Masaüstü/asıl dosya/ESport/Norsera/Views/Shop/Details.cshtml]
+[C:/Users/Mause/OneDrive/Masaüstü/asıl dosya/ESport/Norsera/Views/Shop/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hvcFxEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Mause/OneDrive/Masaüstü/asıl dosya/ESport/Norsera/Views/Shop/Index.cshtml]
+[C:/Users/Mause/OneDrive/Masaüstü/asıl dosya/ESport/Norsera/Views/Shop/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hvcFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Mause/OneDrive/Masaüstü/asıl dosya/ESport/Norsera/Views/Shop/List.cshtml]
+[C:/Users/Mause/OneDrive/Masaüstü/asıl dosya/ESport/Norsera/Views/Shop/List.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hvcFxMaXN0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Mause/OneDrive/Masaüstü/asıl dosya/ESport/Norsera/Views/Shop/Search.cshtml]
+[C:/Users/Mause/OneDrive/Masaüstü/asıl dosya/ESport/Norsera/Views/Shop/Search.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hvcFxTZWFyY2guY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Mause/OneDrive/Masaüstü/asıl dosya/ESport/Norsera/Views/_ViewImports.cshtml]
+[C:/Users/Mause/OneDrive/Masaüstü/asıl dosya/ESport/Norsera/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Mause/OneDrive/Masaüstü/asıl dosya/ESport/Norsera/Views/_ViewStart.cshtml]
+[C:/Users/Mause/OneDrive/Masaüstü/asıl dosya/ESport/Norsera/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "+l43+BscVMthOkR+qC3rEy4N0mNilHmftb0y9OnG1zo=",
+  "Hash": "hO/LZxflYdc5QHY+Rg+NJGAHlj3rYcVf1sTCtVUeGc8=",
   "Source": "Norsera",
   "BasePath": "_content/Norsera",
   "Mode": "Default",
@@ -321,23 +321,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\testürün1.jpg"
-    },
-    {
-      "Identity": "C:\\Users\\Mause\\OneDrive\\Masaüstü\\asıl dosya\\ESport\\Norsera\\wwwroot\\img\\video.mp4",
-      "SourceId": "Norsera",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Mause\\OneDrive\\Masaüstü\\asıl dosya\\ESport\\Norsera\\wwwroot\\",
-      "BasePath": "_content/Norsera",
-      "RelativePath": "img/video.mp4",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\video.mp4"
     },
     {
       "Identity": "C:\\Users\\Mause\\OneDrive\\Masaüstü\\asıl dosya\\ESport\\Norsera\\wwwroot\\js\\shop.js",

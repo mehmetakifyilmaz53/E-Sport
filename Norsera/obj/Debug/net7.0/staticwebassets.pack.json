@@ -73,10 +73,6 @@
       "PackagePath": "staticwebassets\\img\\testürün1.jpg"
     },
     {
-      "Id": "C:\\Users\\Mause\\OneDrive\\Masaüstü\\asıl dosya\\ESport\\Norsera\\wwwroot\\img\\video.mp4",
-      "PackagePath": "staticwebassets\\img\\video.mp4"
-    },
-    {
       "Id": "C:\\Users\\Mause\\OneDrive\\Masaüstü\\asıl dosya\\ESport\\Norsera\\wwwroot\\js\\shop.js",
       "PackagePath": "staticwebassets\\js\\shop.js"
     },
